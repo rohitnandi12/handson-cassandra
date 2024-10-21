@@ -1,0 +1,2 @@
+# handson-cassandra
+Cassandra projects
